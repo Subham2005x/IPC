@@ -1,0 +1,8 @@
+# Local C build products
+*.o
+/ipc_system
+/ipc_system.exe
+
+# Generated benchmark output
+/results/benchmark_results.csv
+/results/.benchmark-*
